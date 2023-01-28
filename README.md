@@ -1,4 +1,4 @@
 Repository for QISMIB web pages
 -------------------------------------------
 
-[https://github.com/qismib](https://github.com/qismib)
+[https://qismib.github.io](https://qismib.github.io)
